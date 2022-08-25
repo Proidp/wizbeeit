@@ -1,0 +1,62 @@
+.elementor-943 .elementor-element.elementor-element-0dac0e7.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-943 .elementor-element.elementor-element-96cbaff{width:auto;max-width:auto;}.elementor-943 .elementor-element.elementor-element-2d52563{text-align:center;}.elementor-943 .elementor-element.elementor-element-2d52563 .elementor-heading-title{color:var( --e-global-color-primary );font-size:37px;font-weight:bold;}#elementor-popup-modal-943 .dialog-message{width:350px;height:280px;align-items:center;}#elementor-popup-modal-943{justify-content:center;align-items:center;pointer-events:all;background-color:#00000020;}#elementor-popup-modal-943 .dialog-widget-content{animation-duration:0.4s;border-radius:10px 10px 10px 10px;box-shadow:0px 0px 25px 0px rgba(0, 0, 0, 0.06);}@media(max-width:767px){#elementor-popup-modal-943 .dialog-message{width:300px;}}/* Start custom CSS for html, class: .elementor-element-96cbaff */@-webkit-keyframes animate-svg-stroke-1 {
+  0% {
+    stroke-dashoffset: 392.1858075758523px;
+    stroke-dasharray: 392.1858075758523px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 392.1858075758523px;
+  }
+}
+
+@keyframes animate-svg-stroke-1 {
+  0% {
+    stroke-dashoffset: 392.1858075758523px;
+    stroke-dasharray: 392.1858075758523px;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-dasharray: 392.1858075758523px;
+  }
+}
+
+.svg-elem-1 {
+  -webkit-animation: animate-svg-stroke-1 .8s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s both;
+          animation: animate-svg-stroke-1 .8s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s both;
+}
+
+@-webkit-keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 101.20843505859375px;
+    stroke-dasharray: 101.20843505859375px;
+  }
+
+  100% {
+    stroke-dashoffset: 202.4168701171875px;
+    stroke-dasharray: 101.20843505859375px;
+  }
+}
+
+@keyframes animate-svg-stroke-2 {
+  0% {
+    stroke-dashoffset: 101.20843505859375px;
+    stroke-dasharray: 101.20843505859375px;
+  }
+
+  100% {
+    stroke-dashoffset: 202.4168701171875px;
+    stroke-dasharray: 101.20843505859375px;
+  }
+}
+
+.svg-elem-2 {
+  -webkit-animation: animate-svg-stroke-2 .7s cubic-bezier(0.645, 0.045, 0.355, 1) 0.8999999999999999s both;
+          animation: animate-svg-stroke-2 .7s cubic-bezier(0.645, 0.045, 0.355, 1) 0.8999999999999999s both;
+}/* End custom CSS */
+/* Start custom CSS */#elementor-popup-modal-943 .dialog-widget-content{
+background-color: #FFFFFF50;
+backdrop-filter: blur(4px) saturate(2) ;
+    
+}/* End custom CSS */
